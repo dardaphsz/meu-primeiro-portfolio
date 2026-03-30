@@ -1,6 +1,6 @@
 # meu-primeiro-portfolio
 Meu portfólio profissional de desenvolvedor - Técnico em Desenvolvimento de Sistemas
 
-# Daphnie Louisse Caino Ancheta
-## Eu sou gringa e sou uma pessoa extrovertida.
+# Maria Eduarda Franceschini Felippe
+## Eu sou esforçada e inteligente.
 ### Estou aprendo a desenvolver sistemas.
